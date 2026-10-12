@@ -2,12 +2,13 @@
 
 *A pet app by Astra.*
 
-Placeholder. Mail Snail is planned as a pet in [Astra's Pet Apps](https://github.com/findastra/astras-pet-apps). The app itself is not built yet.
+Mail Snail will look through Astra's mail for bills she has not paid yet and tell [Finance Finch](https://github.com/findastra/finance-finch). It is a pet in [Astra's Pet Apps](https://github.com/findastra/astras-pet-apps). The app itself is not built yet.
 
 ## Status
 
 - Hatching: repo placeholder only.
-- No connections to mail accounts are planned for this placeholder.
+- Job decided by Astra on 2026-10-12. No mail account is connected yet, and nothing reads mail today.
+- Bill details are financial data: like Finance Finch's, they stay on Astra's PC and are never committed to this public repo.
 
 ## How to run it
 

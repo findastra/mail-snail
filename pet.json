@@ -3,7 +3,7 @@
   "kind": "pet-app",
   "owner": "Astra",
   "sprite": "sprite.json",
-  "job": "Placeholder: a mail pet. The job is not decided yet, and it connects to no mail account.",
+  "job": "Planned: looks through Astra's mail for bills she has not paid yet and tells Finance Finch. Bill details stay on her PC; it connects to no mail account yet.",
   "runs_on": "Any modern browser (index.html).",
   "entry": "index.html",
   "status": "hatching",
@@ -11,10 +11,14 @@
   "cage": {
     "topic": "pet-app",
     "home": "README.md",
-    "repository": "https://github.com/findastra/astras-pet-apps"
+    "repository": "https://github.com/findastra/astras-pet-apps",
+    "submit": {
+      "date": "2026-10-12",
+      "job": "Planned: looks through Astra's mail for bills she has not paid yet and tells Finance Finch. Bill details stay on her PC; it connects to no mail account yet."
+    }
   },
-  "built_with": "Claude Opus 5.5 (claude-opus-5-5), 2026-10-09; draft artwork with OpenAI Codex (GPT-6), 2026-10-11",
-  "updated": "2026-10-11",
+  "built_with": "Claude Opus 5.5 (claude-opus-5-5), 2026-10-09; draft artwork with OpenAI Codex (GPT-6), 2026-10-11; job set by Astra with Claude Opus 5.5 (claude-opus-5-5), 2026-10-12",
+  "updated": "2026-10-12",
   "desktop_pet": "desktop-pet-20261011.json",
   "desktop_art_built_with": "OpenAI Codex (GPT-6), built-in imagegen and native renderer, 2026-10-11"
 }
